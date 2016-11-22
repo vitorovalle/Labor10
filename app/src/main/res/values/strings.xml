@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MotoLista</string>
+    <string name="title_activity_tela_detalhamento">TelaDetalhamento</string>
+</resources>
